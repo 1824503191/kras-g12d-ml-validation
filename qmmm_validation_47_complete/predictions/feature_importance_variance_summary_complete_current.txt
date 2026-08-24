@@ -1,0 +1,42 @@
+Number of structures: 56
+Number of required features: 4086
+Total importance: 1.000000
+
+Importance on fixed features SD<=1e-6: 0.912699 (91.27%)
+Importance on PRO-PRO features: 0.986960 (98.70%)
+Importance on PRO-GTP features: 0.010257 (1.03%)
+Importance on PRO-LIG features: 0.002782 (0.28%)
+Importance on fixed PRO-PRO features: 0.902620 (90.26%)
+
+Top 30 features by old RF importance:
+        feature  importance  mean_across_structures  sd_across_structures  min_across_structures  max_across_structures  is_fixed_sd_le_1e_6 feature_group
+PRO1281-PRO1391    0.253903                6.445000          0.000000e+00                  6.445                  6.445                 True       PRO-PRO
+PRO1275-PRO1276    0.099917                1.347000          2.220446e-16                  1.347                  1.347                 True       PRO-PRO
+PRO1277-PRO1286    0.076682                9.816000          0.000000e+00                  9.816                  9.816                 True       PRO-PRO
+  PRO62-PRO1279    0.064788                6.899946          4.769096e-01                  5.161                  7.547                False       PRO-PRO
+    PRO18-PRO60    0.045486                9.649000          0.000000e+00                  9.649                  9.649                 True       PRO-PRO
+    PRO17-PRO60    0.033931                6.924000          0.000000e+00                  6.924                  6.924                 True       PRO-PRO
+  PRO122-PRO143    0.012889                9.899000          0.000000e+00                  9.899                  9.899                 True       PRO-PRO
+  PRO32-PRO1368    0.006533                8.977000          1.776357e-15                  8.977                  8.977                 True       PRO-PRO
+PRO1267-PRO1276    0.006385                7.843000          1.776357e-15                  7.843                  7.843                 True       PRO-PRO
+    PRO29-PRO31    0.005681                2.569000          4.440892e-16                  2.569                  2.569                 True       PRO-PRO
+PRO1267-PRO1277    0.005315                8.155000          0.000000e+00                  8.155                  8.155                 True       PRO-PRO
+   PRO32-PRO117    0.005205                8.774000          0.000000e+00                  8.774                  8.774                 True       PRO-PRO
+  PRO12-PRO1282    0.005110                5.779000          8.881784e-16                  5.779                  5.779                 True       PRO-PRO
+  PRO86-PRO1275    0.004859                8.156000          0.000000e+00                  8.156                  8.156                 True       PRO-PRO
+    PRO12-PRO88    0.004678                3.769000          8.881784e-16                  3.769                  3.769                 True       PRO-PRO
+    PRO20-PRO60    0.004299               10.319000          0.000000e+00                 10.319                 10.319                 True       PRO-PRO
+    PRO33-PRO59    0.004072                7.193000          8.881784e-16                  7.193                  7.193                 True       PRO-PRO
+PRO1379-PRO1382    0.003916                2.863000          0.000000e+00                  2.863                  2.863                 True       PRO-PRO
+  PRO34-PRO1277    0.003904                9.500000          0.000000e+00                  9.500                  9.500                 True       PRO-PRO
+    PRO11-PRO88    0.003819                2.820000          0.000000e+00                  2.820                  2.820                 True       PRO-PRO
+  PRO10-PRO1277    0.003533                8.975000          0.000000e+00                  8.975                  8.975                 True       PRO-PRO
+  PRO59-PRO1391    0.003300                6.068000          8.881784e-16                  6.068                  6.068                 True       PRO-PRO
+    PRO12-PRO81    0.002684                7.557000          8.881784e-16                  7.557                  7.557                 True       PRO-PRO
+  PRO32-PRO1382    0.002643                5.183000          0.000000e+00                  5.183                  5.183                 True       PRO-PRO
+PRO1385-PRO1387    0.002631                3.216000          4.440892e-16                  3.216                  3.216                 True       PRO-PRO
+PRO1267-PRO1275    0.002620                8.199000          0.000000e+00                  8.199                  8.199                 True       PRO-PRO
+PRO1282-PRO1283    0.002601                1.346000          0.000000e+00                  1.346                  1.346                 True       PRO-PRO
+    PRO62-PRO86    0.002413                7.988625          3.880318e-01                  7.365                  9.125                False       PRO-PRO
+PRO1264-PRO1277    0.002121                6.357000          0.000000e+00                  6.357                  6.357                 True       PRO-PRO
+    PRO20-PRO26    0.002066                5.659000          0.000000e+00                  5.659                  5.659                 True       PRO-PRO

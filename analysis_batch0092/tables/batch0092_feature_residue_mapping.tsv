@@ -1,0 +1,22 @@
+feature	PRO_number	low_mean	high_mean	high_minus_low_mean	cohens_d	abs_cohens_d	interpretation	chain	residue_number	residue_name	mapping_status
+PRO60-LIG	60	6.924799990653992	7.39439287355968	0.4695928829056877	0.3605826920252365	0.3605826920252365	high group has larger distance; high-barrier ligands are farther from this residue	P	60.0	GLY	matched
+PRO69-LIG	69	4.6284999767939246	5.496017888188362	0.8675179113944376	0.3217910333922356	0.3217910333922356	high group has larger distance; high-barrier ligands are farther from this residue	P	69.0	ASP	matched
+PRO61-LIG	61	7.015266720453898	7.343624992030008	0.3283582715761097	0.2992108588449591	0.2992108588449591	high group has larger distance; high-barrier ligands are farther from this residue	P	61.0	GLN	matched
+PRO1241-LIG	1241	6.952066691716512	6.551928577678544	-0.4001381140379676	-0.1740362946509091	0.1740362946509091	high group has smaller distance; high-barrier ligands are closer to this residue	P	1241.0	ARG	matched
+PRO62-LIG	62	3.067633306980133	3.244303586227553	0.1766702792474199	0.1535176956843166	0.1535176956843166	high group has larger distance; high-barrier ligands are farther from this residue	P	62.0	GLU	matched
+PRO68-LIG	68	2.986466638247172	3.193375002060617	0.2069083638134454	0.1387849031023301	0.1387849031023301	high group has larger distance; high-barrier ligands are farther from this residue	P	68.0	ARG	matched
+PRO67-LIG	67	6.543766665458679	6.82566066299166	0.2818939975329808	0.1382438020042431	0.1382438020042431	high group has larger distance; high-barrier ligands are farther from this residue	P	67.0	MET	matched
+PRO88-LIG	88	3.4497999986012777	3.73757141828537	0.2877714196840921	0.1377919343727704	0.1377919343727704	high group has larger distance; high-barrier ligands are farther from this residue	P	88.0	LYS	matched
+PRO1235-LIG	1235	5.950966676076253	6.253107139042446	0.302140462966193	0.0924492927466827	0.0924492927466827	high group has larger distance; high-barrier ligands are farther from this residue	P	1235.0	GLN	matched
+PRO1283-LIG	1283	4.58413336277008	4.755767856325422	0.1716344935553415	0.0824382741856976	0.0824382741856976	high group has larger distance; high-barrier ligands are farther from this residue	P	1283.0	LYS	matched
+PRO66-LIG	66	4.71520000298818	4.8882857369525095	0.1730857339643297	0.0807460410647599	0.0807460410647599	high group has larger distance; high-barrier ligands are farther from this residue	P	66.0	ALA	matched
+PRO92-LIG	92	3.7468666434288025	3.940357123102461	0.1934904796736583	0.0800942406245613	0.0800942406245613	high group has larger distance; high-barrier ligands are farther from this residue	P	92.0	ASP	matched
+PRO1234-LIG	1234	4.109200004736582	4.306499998484339	0.197299993747757	0.0703548782522262	0.0703548782522262	high group has larger distance; high-barrier ligands are farther from this residue	P	1234.0	SER	matched
+PRO64-LIG	64	6.674633280436198	6.764839274542672	0.0902059941064745	0.064902657901447	0.064902657901447	high group has larger distance; high-barrier ligands are farther from this residue	P	64.0	TYR	matched
+PRO1237-LIG	1237	4.3969000021616615	4.270749994686672	-0.1261500074749895	-0.0540055584069009	0.0540055584069009	high group has smaller distance; high-barrier ligands are closer to this residue	P	1237.0	ASP	matched
+PRO99-LIG	99	3.483366644382477	3.58992857166699	0.1065619272845133	0.0483494636639308	0.0483494636639308	high group has larger distance; high-barrier ligands are farther from this residue	P	99.0	GLN	matched
+PRO65-LIG	65	3.085566647847493	3.0342142837388173	-0.0513523641086761	-0.0473346059658676	0.0473346059658676	high group has smaller distance; high-barrier ligands are closer to this residue	P	65.0	SER	matched
+PRO95-LIG	95	3.1776333411534625	3.2803392836025784	0.1027059424491159	0.0431342259015287	0.0431342259015287	high group has larger distance; high-barrier ligands are farther from this residue				not_found
+PRO1278-LIG	1278	6.3120333274205525	6.39003570164953	0.0780023742289772	0.0255208831241469	0.0255208831241469	high group has larger distance; high-barrier ligands are farther from this residue	P	1278.0	ASN	matched
+PRO63-LIG	63	7.055966695149739	7.009017837899072	-0.0469488572506673	-0.0231613789969664	0.0231613789969664	high group has smaller distance; high-barrier ligands are closer to this residue	P	63.0	GLU	matched
+PRO1290-LIG	1290	7.858333420753479	7.900428597416196	0.0420951766627171	0.0161915637046583	0.0161915637046583	high group has larger distance; high-barrier ligands are farther from this residue	P	1290.0	LYS	matched
